@@ -1,0 +1,4 @@
+selenium==4.1.0
+undetected-chromedriver==4.0.0
+fake-useragent==0.1.11
+faker==10.9.0
