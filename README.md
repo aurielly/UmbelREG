@@ -7,6 +7,6 @@
 
 '''
 pip install -r requirements.txt
-pip install chromedriver-autoinstaller'
+pip install chromedriver-autoinstaller
 '''
 
