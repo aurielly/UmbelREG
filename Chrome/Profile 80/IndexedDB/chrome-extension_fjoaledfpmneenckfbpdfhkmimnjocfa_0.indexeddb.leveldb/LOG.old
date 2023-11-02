@@ -1,0 +1,25 @@
+2023/11/02-23:25:05.366 8007 Reusing MANIFEST /Users/triagung/Documents/RumblePy-main/Chrome/Profile 80/IndexedDB/chrome-extension_fjoaledfpmneenckfbpdfhkmimnjocfa_0.indexeddb.leveldb/MANIFEST-000001
+2023/11/02-23:25:05.367 8007 Recovering log #1258
+2023/11/02-23:25:05.367 8007 Reusing old log /Users/triagung/Documents/RumblePy-main/Chrome/Profile 80/IndexedDB/chrome-extension_fjoaledfpmneenckfbpdfhkmimnjocfa_0.indexeddb.leveldb/001258.log 
+2023/11/02-23:25:05.367 8007 Delete type=2 #1257
+2023/11/02-23:25:05.410 fa03 Level-0 table #1263: started
+2023/11/02-23:25:05.413 fa03 Level-0 table #1263: 1716 bytes OK
+2023/11/02-23:25:05.423 fa03 Delete type=0 #1258
+2023/11/02-23:25:05.423 fa03 Manual compaction at level-0 from ' n\x01\x00\x00\x00' @ 72057594037927935 : 1 .. ' o\x01\x00\x00\x00' @ 0 : 0; will stop at ' n\x01\x00\x00\x05' @ 11565 : 1
+2023/11/02-23:25:05.423 fa03 Compacting 1@0 + 1@1 files
+2023/11/02-23:25:05.426 fa03 Generated table #1264@0: 140 keys, 3606 bytes
+2023/11/02-23:25:05.426 fa03 Compacted 1@0 + 1@1 files => 3606 bytes
+2023/11/02-23:25:05.430 fa03 compacted to: files[ 0 1 1 0 0 0 0 ]
+2023/11/02-23:25:05.430 fa03 Delete type=2 #1263
+2023/11/02-23:25:05.430 8007 Manual compaction at level-0 from ' n\x01\x00\x00\x05' @ 11565 : 1 .. ' o\x01\x00\x00\x00' @ 0 : 0; will stop at (end)
+2023/11/02-23:25:05.432 8007 Level-0 table #1266: started
+2023/11/02-23:25:05.433 8007 Level-0 table #1266: 2059 bytes OK
+2023/11/02-23:25:05.436 8007 Delete type=2 #1260
+2023/11/02-23:25:05.436 8007 Delete type=0 #1262
+2023/11/02-23:25:05.436 8007 Manual compaction at level-0 from ' o\x01\x00\x00\x00' @ 72057594037927935 : 1 .. ' p\x01\x00\x00\x00' @ 0 : 0; will stop at ' o\x01\x00\x00\x05' @ 11582 : 1
+2023/11/02-23:25:05.436 8007 Compacting 1@0 + 1@1 files
+2023/11/02-23:25:05.438 8007 Generated table #1267@0: 140 keys, 4465 bytes
+2023/11/02-23:25:05.438 8007 Compacted 1@0 + 1@1 files => 4465 bytes
+2023/11/02-23:25:05.440 8007 compacted to: files[ 0 1 1 0 0 0 0 ]
+2023/11/02-23:25:05.441 8007 Delete type=2 #1266
+2023/11/02-23:25:05.441 8007 Manual compaction at level-0 from ' o\x01\x00\x00\x05' @ 11582 : 1 .. ' p\x01\x00\x00\x00' @ 0 : 0; will stop at (end)

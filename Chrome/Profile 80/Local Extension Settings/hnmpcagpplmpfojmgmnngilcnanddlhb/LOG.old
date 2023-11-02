@@ -1,0 +1,78 @@
+2023/11/02-15:24:43.640 8007 Reusing MANIFEST /Users/triagung/Documents/RumblePy-main/Chrome/Profile 80/Local Extension Settings/hnmpcagpplmpfojmgmnngilcnanddlhb/MANIFEST-000001
+2023/11/02-15:24:43.641 8007 Recovering log #246
+2023/11/02-15:24:43.647 8007 Reusing old log /Users/triagung/Documents/RumblePy-main/Chrome/Profile 80/Local Extension Settings/hnmpcagpplmpfojmgmnngilcnanddlhb/000246.log 
+2023/11/02-15:24:47.733 a303 Level-0 table #250: started
+2023/11/02-15:24:47.747 a303 Level-0 table #250: 2100671 bytes OK
+2023/11/02-15:24:47.752 a303 Delete type=0 #246
+2023/11/02-15:24:48.000 a303 Level-0 table #252: started
+2023/11/02-15:24:48.012 a303 Level-0 table #252: 1822336 bytes OK
+2023/11/02-15:24:48.016 a303 Delete type=0 #249
+2023/11/02-15:24:48.271 a303 Level-0 table #254: started
+2023/11/02-15:24:48.287 a303 Level-0 table #254: 2159788 bytes OK
+2023/11/02-15:24:48.291 a303 Delete type=0 #251
+2023/11/02-15:24:48.291 a303 Compacting 4@0 + 3@1 files
+2023/11/02-15:24:48.318 a303 Generated table #255@0: 16 keys, 2178513 bytes
+2023/11/02-15:24:48.338 a303 Generated table #256@0: 16 keys, 2101995 bytes
+2023/11/02-15:24:48.347 a303 Generated table #257@0: 13 keys, 870 bytes
+2023/11/02-15:24:48.347 a303 Compacted 4@0 + 3@1 files => 4281378 bytes
+2023/11/02-15:24:48.350 a303 compacted to: files[ 0 3 1 0 0 0 0 ]
+2023/11/02-15:24:48.350 a303 Delete type=2 #254
+2023/11/02-15:24:48.350 a303 Delete type=2 #243
+2023/11/02-15:24:48.350 a303 Delete type=2 #247
+2023/11/02-15:24:48.350 a303 Delete type=2 #252
+2023/11/02-15:24:48.350 a303 Delete type=2 #250
+2023/11/02-15:24:48.350 a303 Delete type=2 #244
+2023/11/02-15:24:48.350 a303 Delete type=2 #245
+2023/11/02-15:24:50.891 a303 Level-0 table #259: started
+2023/11/02-15:24:50.905 a303 Level-0 table #259: 1736506 bytes OK
+2023/11/02-15:24:50.908 a303 Delete type=0 #253
+2023/11/02-15:24:51.095 a303 Level-0 table #261: started
+2023/11/02-15:24:51.109 a303 Level-0 table #261: 1728794 bytes OK
+2023/11/02-15:24:51.112 a303 Delete type=0 #258
+2023/11/02-15:26:51.438 a303 Level-0 table #263: started
+2023/11/02-15:26:51.458 a303 Level-0 table #263: 1595492 bytes OK
+2023/11/02-15:26:51.463 a303 Delete type=0 #260
+2023/11/02-15:26:51.532 a303 Level-0 table #265: started
+2023/11/02-15:26:51.553 a303 Level-0 table #265: 3399315 bytes OK
+2023/11/02-15:26:51.557 a303 Delete type=0 #262
+2023/11/02-15:26:51.557 a303 Compacting 4@0 + 3@1 files
+2023/11/02-15:26:51.591 a303 Generated table #266@0: 16 keys, 2179486 bytes
+2023/11/02-15:26:51.609 a303 Generated table #267@0: 16 keys, 2101995 bytes
+2023/11/02-15:26:51.635 a303 Generated table #268@0: 5 keys, 3318983 bytes
+2023/11/02-15:26:51.645 a303 Generated table #269@0: 8 keys, 850488 bytes
+2023/11/02-15:26:51.645 a303 Compacted 4@0 + 3@1 files => 8450952 bytes
+2023/11/02-15:26:51.648 a303 compacted to: files[ 0 4 1 0 0 0 0 ]
+2023/11/02-15:26:51.648 a303 Delete type=2 #261
+2023/11/02-15:26:51.648 a303 Delete type=2 #263
+2023/11/02-15:26:51.648 a303 Delete type=2 #265
+2023/11/02-15:26:51.648 a303 Delete type=2 #259
+2023/11/02-15:26:51.648 a303 Delete type=2 #255
+2023/11/02-15:26:51.648 a303 Delete type=2 #256
+2023/11/02-15:26:51.648 a303 Delete type=2 #257
+2023/11/02-15:34:41.544 a303 Level-0 table #271: started
+2023/11/02-15:34:41.559 a303 Level-0 table #271: 1615045 bytes OK
+2023/11/02-15:34:41.562 a303 Delete type=0 #264
+2023/11/02-15:34:41.887 a303 Level-0 table #273: started
+2023/11/02-15:34:41.901 a303 Level-0 table #273: 1908401 bytes OK
+2023/11/02-15:34:41.905 a303 Delete type=0 #270
+2023/11/02-15:36:43.116 a303 Level-0 table #275: started
+2023/11/02-15:36:43.132 a303 Level-0 table #275: 1690739 bytes OK
+2023/11/02-15:36:43.136 a303 Delete type=0 #272
+2023/11/02-15:36:43.199 a303 Level-0 table #277: started
+2023/11/02-15:36:43.220 a303 Level-0 table #277: 3383324 bytes OK
+2023/11/02-15:36:43.225 a303 Delete type=0 #274
+2023/11/02-15:36:43.225 a303 Compacting 4@0 + 4@1 files
+2023/11/02-15:36:43.259 a303 Generated table #278@0: 16 keys, 2179452 bytes
+2023/11/02-15:36:43.277 a303 Generated table #279@0: 16 keys, 2101995 bytes
+2023/11/02-15:36:43.307 a303 Generated table #280@0: 5 keys, 3317127 bytes
+2023/11/02-15:36:43.317 a303 Generated table #281@0: 8 keys, 838385 bytes
+2023/11/02-15:36:43.317 a303 Compacted 4@0 + 4@1 files => 8436959 bytes
+2023/11/02-15:36:43.319 a303 compacted to: files[ 0 4 1 0 0 0 0 ]
+2023/11/02-15:36:43.320 a303 Delete type=2 #275
+2023/11/02-15:36:43.320 a303 Delete type=2 #277
+2023/11/02-15:36:43.320 a303 Delete type=2 #266
+2023/11/02-15:36:43.320 a303 Delete type=2 #273
+2023/11/02-15:36:43.320 a303 Delete type=2 #267
+2023/11/02-15:36:43.320 a303 Delete type=2 #271
+2023/11/02-15:36:43.320 a303 Delete type=2 #269
+2023/11/02-15:36:43.320 a303 Delete type=2 #268

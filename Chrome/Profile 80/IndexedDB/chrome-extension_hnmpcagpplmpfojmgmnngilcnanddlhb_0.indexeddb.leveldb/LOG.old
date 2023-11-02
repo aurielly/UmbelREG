@@ -1,0 +1,14 @@
+2023/11/02-15:34:38.202 8007 Reusing MANIFEST /Users/triagung/Documents/RumblePy-main/Chrome/Profile 80/IndexedDB/chrome-extension_hnmpcagpplmpfojmgmnngilcnanddlhb_0.indexeddb.leveldb/MANIFEST-000001
+2023/11/02-15:34:38.202 8007 Recovering log #288
+2023/11/02-15:34:38.203 8007 Reusing old log /Users/triagung/Documents/RumblePy-main/Chrome/Profile 80/IndexedDB/chrome-extension_hnmpcagpplmpfojmgmnngilcnanddlhb_0.indexeddb.leveldb/000288.log 
+2023/11/02-15:34:38.203 8007 Delete type=2 #286
+2023/11/02-15:34:38.301 f603 Level-0 table #293: started
+2023/11/02-15:34:38.303 f603 Level-0 table #293: 22861 bytes OK
+2023/11/02-15:34:38.309 f603 Delete type=0 #288
+2023/11/02-15:34:38.311 a303 Manual compaction at level-0 from '\x00L\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00M\x00\x00\x00' @ 0 : 0; will stop at '\x00L\x01\x1f\x01\x0b\x00h\x00e\x00l\x00l\x00o\x00 \x00w\x00o\x00r\x00l\x00d\x00\x03\x00\x00\x00\x00\x00\x00\xf0?' @ 42745 : 1
+2023/11/02-15:34:38.311 a303 Compacting 1@0 + 1@1 files
+2023/11/02-15:34:38.317 a303 Generated table #294@0: 4619 keys, 188787 bytes
+2023/11/02-15:34:38.317 a303 Compacted 1@0 + 1@1 files => 188787 bytes
+2023/11/02-15:34:38.320 a303 compacted to: files[ 0 1 1 0 0 0 0 ]
+2023/11/02-15:34:38.320 a303 Delete type=2 #293
+2023/11/02-15:34:38.321 a303 Manual compaction at level-0 from '\x00L\x01\x1f\x01\x0b\x00h\x00e\x00l\x00l\x00o\x00 \x00w\x00o\x00r\x00l\x00d\x00\x03\x00\x00\x00\x00\x00\x00\xf0?' @ 42745 : 1 .. '\x00M\x00\x00\x00' @ 0 : 0; will stop at (end)

@@ -1,0 +1,11 @@
+[37227:259:1102/232635.121012:WARNING:chrome_main_delegate.cc(660)] This is Chrome version 119.0.6045.105 (not a warning)
+[37227:259:1102/232635.440425:INFO:policy_logger.cc(145)] :components/enterprise/browser/controller/chrome_browser_cloud_management_controller.cc(168) Starting CBCM Controller Initialization
+[37227:259:1102/232635.440461:INFO:policy_logger.cc(145)] :components/enterprise/browser/controller/chrome_browser_cloud_management_controller.cc(196) No machine level policy manager exists.
+[37227:259:1102/232635.481724:ERROR:dock.mm(161)] dock_plist is not an NSDictionary
+[37227:45571:1102/232635.537703:ERROR:login_database.cc(1100)] Password decryption failed, encryption_result is 2
+[37227:259:1102/232635.563529:ERROR:dock.mm(161)] dock_plist is not an NSDictionary
+[37227:43271:1102/232635.999649:ERROR:login_database.cc(1100)] Password decryption failed, encryption_result is 2
+[37227:42755:1102/232705.536729:ERROR:login_database.cc(1100)] Password decryption failed, encryption_result is 2
+[37235:22275:1102/232708.667058:ERROR:vt_video_encode_accelerator_mac.cc(953)] Call NotifyErrorStatus(): code=7, message=VTCompressionSessionCreate failed: Error Domain=NSOSStatusErrorDomain Code=-12903 "(null)"
+[37264:259:1102/232708.748274:ERROR:system_services.cc(31)] SetApplicationIsDaemon: Error Domain=NSOSStatusErrorDomain Code=-50 "paramErr: error in user parameter list" (-50)
+[37227:259:1102/232757.521268:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
