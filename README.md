@@ -5,10 +5,7 @@
 -Buster - https://github.com/dessant/buster
 
 
-`
+```
 pip install -r requirements.txt
-`
-<br>
-`
 pip install chromedriver-autoinstaller
-`
+```
